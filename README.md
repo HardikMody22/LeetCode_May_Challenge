@@ -1,6 +1,7 @@
 # LeetCode_May_Challenge
 Leetcode May Challenge For all Problems
-
+## CheatSheet
+* [Java Methods](./JavaCheatSheet/JavaCheatSheet.pdf)
 
 
 ## Problems
