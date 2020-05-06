@@ -8,11 +8,13 @@ Leetcode May Challenge For all Problems
 
 ## Problems
 ### Week 1
-* [May 1](./May_1.md)
-* [May 2](./May_2.md)
-* [May 3](./May_3.md)
-* [May 4](./May_4.md)
-* [May 5](./May_5.md)
+* [May 1 : First Bad Version](./May_1.md)
+* [May 2 : Jewels and Stones](./May_2.md)
+* [May 3 : Ransom Note](./May_3.md)
+* [May 4 : Number Complement](./May_4.md)
+* [May 5 : First Unique Character in a String](./May_5.md)
+* [May 6 : Majority Elelemnt](./May_6.md)
+
 
 [Learnings From Week 1](./Learning_Week_1.md)
 
