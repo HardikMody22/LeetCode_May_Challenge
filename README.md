@@ -19,4 +19,5 @@ Leetcode May Challenge For all Problems
 
 [Learnings From Week 1](./Learning_Week_1.md)
 
-
+### Week 2
+* [May 8 : Check if it is a Straight Line](./May_8.md)
