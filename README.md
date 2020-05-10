@@ -21,3 +21,6 @@ Leetcode May Challenge For all Problems
 
 ### Week 2
 * [May 8 : Check if it is a Straight Line](./May_8.md)
+* [May 9: Valid Perfect Square](./May_9.md)
+
+[Learnings From Week 2](./Learning_Week_2.md)
